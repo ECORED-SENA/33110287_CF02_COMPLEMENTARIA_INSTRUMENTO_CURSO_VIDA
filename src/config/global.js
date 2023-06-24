@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Plan de cuidado en la atención integral',
     descripcionCurso:
-      'Este componente formativo aborda aspectos generales y claves sobre los planes de cuidado, a partir de los hallazgos aportados por los instrumentos de la valoración integral por curso de vida. El aprendiz estará en capacidad de aportar a la construcción del marco estratégico para el cuidado integral del individuo, la familia y la comunidad, según resultados de los instrumentos y el plan de cuidado mismo, así como analizar y trazar planes de mejora continua.',
+      'Este componente formativo aborda aspectos generales y claves sobre los <b>planes de cuidado</b>, a partir de los hallazgos aportados por los instrumentos de la valoración integral por curso de vida. El aprendiz estará en capacidad de aportar a la construcción del marco estratégico para el cuidado integral del individuo, la familia y la comunidad, según resultados de los instrumentos y el plan de cuidado mismo, así como analizar y trazar planes de mejora continua.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

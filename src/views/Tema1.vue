@@ -73,7 +73,7 @@
             p(data-aos="fade-down").mb-0 #[b Desde el curso de vida, el concepto de cuidado involucra las dimensiones: familiar, comunitaria e institucional] e integran la forma en que los servicios de salud se aproximan a la población, adicionalmente el cuidado se relaciona con el curso de vida de la persona y su acumulación de capital de salud y de capital social, los cuales se describen en la siguiente tabla. 
           .titulo-sexto.color-acento-contenido(data-aos="flip-down")
             h5 Tabla 1.
-            span Curso de vida de una person
+            span Curso de vida de una persona
           .tabla-a.color-primario.pb-5(data-aos="fade-left")
             table
               thead
@@ -88,21 +88,19 @@
                   td Es variable, acumulativo y relacionado con las decisiones de las personas, por ejemplo, si se decide fumar a lo largo de la vida existirá un alto riesgo (primario) de desarrollar enfermedad o restricciones pulmonares que limitarán el capital de salud.
                   td Se inicia como una dotación ligada a los padres al nacer, pero se desarrolla a lo largo de la vida, de acuerdo con las decisiones de la persona.
                 tr
-                  td.bgw El capital de salud puede perderse transitoria o permanentemente por una enfermedad o limitarse por la discapacidad. En esos casos el sistema debe proveer los medios para facilitar la superación o adaptación al déficit permanente. 
-                  td.bgw(rowspan='2') La capacidad y oportunidad para tomar decisiones hace parte de la capacidad de autocuidado y dentro del modelo de determinantes sociales está ubicado fuera del ámbito de los servicios de salud, aunque las acciones de promoción de la salud apuntan a incrementar esa capacidad de autodeterminación en cada ser humano.  
-
-                tr
-                  td.bgt3 En esta situación hay un límite con los servicios sociales que en la inmensa mayoría de las sociedades están ubicados fuera del sistema de salud, ya que incluyen otros sectores como el de infraestructura, trabajo y educación, etc. 
+                  td.bgw El capital de salud puede perderse transitoria o permanentemente por una enfermedad o limitarse por la discapacidad. En esos casos el sistema debe proveer los medios para facilitar la superación o adaptación al déficit permanente. <br><br>La capacidad y oportunidad para tomar decisiones hace parte de la capacidad de autocuidado y dentro del modelo de determinantes sociales está ubicado fuera del ámbito de los servicios de salud, aunque las acciones de promoción de la salud apuntan a incrementar esa capacidad de autodeterminación en cada ser humano.  
+                  td.bgw En esta situación hay un límite con los servicios sociales que en la inmensa mayoría de las sociedades están ubicados fuera del sistema de salud, ya que incluyen otros sectores como el de infraestructura, trabajo y educación, etc. 
 
     .row.justify-content-center.align-items-center         
       .col-lg-10.m-top
-          .bg2.p-4.mb-5(data-aos="flip-down")
-            .row.justify-content-center.align-items-center           
-              .col-lg-auto
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.svg', alt='')
-              .col 
-                h4(data-aos="fade-down") Nota
-                p(data-aos="fade-down").mb-0 No es posible proyectar efectos positivos de la atención primaria, la promoción de la salud y la prevención de la enfermedad si no se logra incrementar el nivel de cuidado en el individuo. No se pueden reducir riesgos de enfermedad si no se logra que el individuo asuma decisiones frente al hábito de fumar, la adecuada nutrición, las conductas riesgosas en el ámbito laboral, la escuela o las conductas sexuales.
+        .bg2.p-4.mb-5(data-aos="flip-down")
+          .row.justify-content-center.align-items-center           
+            .col-lg-auto
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.svg', alt='')
+            .col 
+              h4(data-aos="fade-down") Nota
+              p(data-aos="fade-down").mb-0 No obstante lo dicho hasta este punto, hay algunos servicios sociales que se deben brindar de manera integrada con el servicio de salud. El autocuidado se ha relacionado con la resiliencia de la persona, que implica su capacidad para recuperar las circunstancias traumáticas de la vida y la forma en que el cuerpo humano incorpora los efectos del ambiente, las interacciones sociales y los traumas psicológicos y corporales. En el contexto de la Ley Estatutaria de Salud el primer deber de la persona con el servicio de salud es propender por su autocuidado, el de su familia y el de su comunidad.
+        p(data-aos="fade-down").mb-5 #[b No es posible proyectar efectos positivos de la atención primaria, la promoción de la salud y la prevención de la enfermedad si no se logra incrementar el nivel de cuidado en el individuo]. No se pueden reducir riesgos de enfermedad si no se logra que el individuo asuma decisiones frente al hábito de fumar, la adecuada nutrición, las conductas riesgosas en el ámbito laboral, la escuela o las conductas sexuales.
 
     .row.justify-content-center.align-items-center          
       .col-lg-10(data-aos="flip-down")

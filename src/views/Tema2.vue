@@ -41,7 +41,7 @@
           .row.justify-content-center.align-items-center.mb-2
             .col-auto.img-text(data-aos="flip-down")
               p.py-1.mb-0.text-center El embarazo en la adolescencia 
-          p(data-aos="fade-down").mb-0 Este es un problema mundial de salud pública, el cual incluye una serie de actos que van desde la intimidación y las riñas al homicidio, pasando por agresiones sexuales y físicas más graves.
+          p(data-aos="fade-down").mb-0 Este sigue siendo uno de los principales factores que contribuye a la mortalidad materna e infantil y al círculo de la enfermedad y la pobreza, lo que ha aumentado en Colombia. 
 
     .bg7
       p(data-aos="fade-down").mb-5.pt-5 Igualmente, unos de los papeles importantes que debe tener el sector salud para proteger la salud de los niños, niñas y adolescentes a nivel nacional son:
@@ -181,12 +181,12 @@
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/28.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 Robustecer el entorno normativo a fin de reducir las inequidades en materia de salud que afectan a las mujeres, los niños, las niñas y loa adolescentes.  
+              p(data-aos="fade-down").mb-0 Robustecer el entorno normativo a fin de reducir las inequidades en materia de salud que afectan a las mujeres, los niños, las niñas y los adolescentes.  
           .row.justify-content-center.align-items-center(titulo="Promoción en salud")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 Promover la salud y el bienestar universales, efectivos y equitativos para todas las mujeres, los niños, las niñas y los adolescentes en sus familias, escuelas y comunidades a lo largo del curso de la vida 
+              p(data-aos="fade-down").mb-0 Promover la salud y el bienestar universales, efectivos y equitativos para todas las mujeres, los niños, las niñas y los adolescentes en sus familias, escuelas y comunidades a lo largo del curso de la vida. 
           .row.justify-content-center.align-items-center(titulo="Equidad en salud")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.svg', alt='')
@@ -232,12 +232,12 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/XE4sjWzrRK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
-        figcaption Video. Tipos de resultados   
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/l_JPei3Vpiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        figcaption Video. Acciones y políticas para el envejecimiento saludable
 
     Separador 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.1 Servicios sociales y atenciones a la familia 
+      h2 2.1 S - Servicios sociales y atenciones a la familia
     p(data-aos="fade-down").mb-4 La atención integral en salud a las familias implica garantizar su reconocimiento como sujeto, el acceso e integralidad en la atención, en el marco de un proceso que permita dinamizar, actualizar y gestionar el acompañamiento y la continuidad. Garantizar la continuidad implica además de las acciones promocionales, la conexión y la remisión a los procesos resolutivos y de acompañamiento permanente según la situación.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
@@ -255,7 +255,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='')
             .col.my-3
               h4(data-aos="fade-down") Importante
-              p(data-aos="fade-down").mb-0 Esta atención integral a las familias se debe realizar en alineación con la acción de la entidad territorial en su competencia como autoridad territorial, desde la identificación de las características poblacionales de las familias del territorio, así como desde la caracterización de la población afiliada que realiza la EPS - Entidad Prestadora de Servicios de Salud e IPS- Institución Prestadora de Servicios de Salud, a fin de que haya complementariedad entre las intervenciones.
+              p(data-aos="fade-down").mb-0 Esta atención integral a las familias se debe realizar en alineación con la acción de la entidad territorial en su competencia como autoridad territorial, desde la identificación de las características poblacionales de las familias del territorio, así como desde la caracterización de la población #[b afiliada que realiza la EPS - Entidad Prestadora de Servicios de Salud e IPS- Institución Prestadora de Servicios de Salud], a fin de que haya complementariedad entre las intervenciones.
 
     p(data-aos="fade-down") En este reconocimiento como sujeto de derechos, la familia decide con quién accede a los procedimientos contemplados en la RPMS- Rutas de Promoción y Mantenimiento de la Salud para la Familia, pudiendo ser direccionada hacia aquella EAPB- Entidades Administradoras de Planes de Beneficios de Salud que tenga afiliada al mayor número de los integrantes de la familia. Siendo en todo caso de obligatorio cumplimiento el que todos los aseguradores oferten y brinden todas las intervenciones individuales establecidas para la familia.
 
@@ -283,7 +283,7 @@
               .row.mb-3           
                 .col-auto.bgn.p-2
                   h5.mb-0.mx-1(data-aos="fade-down") 03 
-              p.mb-4 Atención básica de orientación familiar.
+              p.mb-4 Educación para la salud dirigida a la familia.
               img.img-t.r(src='@/assets/curso/temas/24.svg' alt='') 
 
         p(data-aos="fade-down") En estas entidades se hacen dos cosas muy importantes, por un lado, una valoración del componente familiar: esta atención se encuentra incluida en el procedimiento de atención en salud por momento de curso de vida o en el procedimiento de atención básica de orientación familiar cuando la familia demanda espontáneamente.
@@ -307,7 +307,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')
             .col.my-3
               h4(data-aos="fade-down") Importante
-              p(data-aos="fade-down").mb-0 Esta atención integral a las familias se debe realizar en alineación con la acción de la entidad territorial en su competencia como autoridad territorial, desde la identificación de las características poblacionales de las familias del territorio, así como desde la caracterización de la población afiliada que realiza la EPS - Entidad Prestadora de Servicios de Salud e IPS- Institución Prestadora de Servicios de Salud, a fin de que haya complementariedad entre las intervenciones.
+              p(data-aos="fade-down").mb-0 La identificación del riesgo se apoya en la evaluación del grado de satisfacción de la funcionalidad familiar, principalmente mediante la aplicación del instrumento #[b Apgar familiar - Instrumento de valoración]. Es recomendable que este instrumento sea utilizado conjuntamente con otros instrumentos sugeridos en este anexo para la valoración familiar.
 
     h4(data-aos="fade-down").text-center.mb-5 La valoración familiar se realiza:
 
@@ -337,7 +337,7 @@
       .col-lg-auto.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/41.svg', alt='')
       .col.my-3
-        p(data-aos="fade-down") La información resultante de la valoración familiar debe estar disponible de manera permanente y cuando los integrantes de la misma reciban cualquier tipo de atención en salud, de tal modo que pueda ser actualizada, ampliarse, verificarse o profundizarse. Es de anotar que toda información derivada de la valoración familiar debe manejarse como perteneciente a la historia clínica y, por tanto, debe cumplir con todos los requisitos de la protección de datos.
+        p(data-aos="fade-down") La información resultante de la valoración familiar debe estar disponible de manera permanente y cuando los integrantes de la misma reciban cualquier tipo de atención en salud, de tal modo que pueda ser actualizada, ampliarse, verificarse o profundizarse. Es de anotar que toda información derivada de la valoración familiar debe manejarse como perteneciente a la #[b historia clínica] y, por tanto, debe cumplir con todos los requisitos de la #[b protección de datos].
 
         p(data-aos="fade-down").mb-0 En la anamnesis de las consultas de valoración integral de las personas en los diferentes momentos del curso de vida y en la atención básica de orientación familiar se debe indagar por los siguientes aspectos que configuran el componente de la valoración familiar:
 
@@ -367,7 +367,7 @@
         figcaption Video. Atención básica para la orientación familiar
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8               
-        p(data-aos="fade-down").text-center A partir de los hallazgos de la valoración del componente familiar y principalmente de los resultados de la aplicación del Apgar familiar se debe clasificar el riesgo de las  familias así: 
+        p(data-aos="fade-down").text-center A partir de los hallazgos de la valoración del componente familiar y principalmente de los resultados de la aplicación del #[b Apgar familiar] se debe clasificar el riesgo de las  familias así: 
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-6.my-3      
@@ -411,28 +411,28 @@
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 Situación de vulnerabilidad
-            p Familias en situaciones de vulnerabilidad social que pueden afectar la salud familiar, por ejemplo, familias con varios integrantes en condición de dependencia y un solo proveedor o expuestas a violencia intrafamiliar, al consumo de SPA, a la explotación sexual o económica, al pandillismo o familias dedicadas al reciclaje, etc.. 
+            p Familias en situaciones de #[b vulnerabilidad social] que pueden afectar la salud familiar, por ejemplo, familias con varios integrantes en condición de dependencia y un solo proveedor o expuestas a violencia intrafamiliar, al consumo de SPA, a la explotación sexual o económica, al pandillismo o familias dedicadas al reciclaje, etc. 
         
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/49.png', alt='')              
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 Familias especiales
-            p Familias con algún integrante en condición de discapacidad que puede presentar algún tipo de deficiencia física, intelectual, mental o sensorial a largo plazo, que al interactuar con el entorno inmediato encuentra barreras de diferentes tipos para poder contactarse con otros o con el medio. 
+            p Familias con algún integrante en #[b condición de discapacidad] que puede presentar algún tipo de deficiencia física, intelectual, mental o sensorial a largo plazo, que al interactuar con el entorno inmediato encuentra barreras de diferentes tipos para poder contactarse con otros o con el medio. 
         
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/50.png', alt='')     
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 Redes de apoyo
-            p Familias con falta de redes de apoyo emocional o son deficientes, y en algunos casos generan riesgo o afectación la salud familiar o de la persona en especial, por su silencio. 
+            p Familias #[b con falta] de redes de apoyo emocional o son #[b deficientes], y en algunos casos generan #[b riesgo o afectación] la salud familiar o de la persona en especial, por su silencio. 
         
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/51.png', alt='')  
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 Salud en condición crítica
-            p Familias con prácticas del cuidado de salud crítica de varios de sus integrantes por enfermedad o por vejez y que ponen en riesgo o afecta la salud de la familia en general, debido al estrés del cuidado que debe hacerse del grupo. 
+            p Familias con prácticas del cuidado de #[b salud crítica] de varios de sus integrantes por enfermedad o por vejez y que ponen en riesgo o afecta la salud de la familia en general, debido al estrés del cuidado que debe hacerse del grupo. 
         
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/52.png', alt='')  
@@ -469,7 +469,7 @@
     .row.justify-content-center.align-items-start.mb-4           
       .col-lg-5.my-3
         LineaTiempoD.color-primario
-          p(numero="1" titulo="Riesgo") Familias con situaciones o condiciones de riesgo medio para la salud, identificadas en las intervenciones/atenciones individuales en salud.
+          p(numero="1" titulo="Riesgo") Familias con situaciones o condiciones de riesgo medio para la salud, identificadas en las intervenciones/atenciones en salud individuales.
 
           p(numero="2" titulo="PIC - Plan de intervenciones colectivas") Familias canalizadas desde las intervenciones del PIC. 
           p(numero="3" titulo="Solicitud de orientación") Familias que demandan espontáneamente en conjunto o por alguno de sus integrantes aduciendo alguna necesidad de orientación familiar.
@@ -555,7 +555,7 @@
 
       .col-lg-5.my-3
         .bg24.p-3.brad.mb-4(data-aos="flip-down")  
-          p(data-aos="fade-down").mb-0 Es prescindible que asista preferiblemente el núcleo principal de la familia, como mínimo con dos integrantes, de preferencia contar con la presencia de un adulto, bien sea cuando la familia accede por demanda espontánea o cuando es canalizada o es derivada de una atención individual de una RIAS - Rutas Integrales de Atención en Salud u otro tipo de atención.
+          p(data-aos="fade-down").mb-0 Es prescindible que asista preferiblemente el #[b núcleo principal de la familia], como mínimo con dos integrantes, de preferencia contar con la presencia de un adulto, bien sea cuando la familia accede por demanda espontánea o cuando es canalizada o es derivada de una atención individual de una #[b RIAS - Rutas Integrales de Atención en Salud] u otro tipo de atención.
         .bg25.p-3.brad(data-aos="flip-down")
           .row.justify-content-center.align-items-center          
             .col.order-1.my-3     
@@ -566,14 +566,14 @@
 
     Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.2 Enfermedad                                    
+      h2 2.2 E - Enfermedad                                  
     h4(data-aos="fade-down").mb-3 Derivación a una RIAS de riesgo o atención resolutiva (énfasis en el manejo de los hallazgos y la articulación de los mismos en el plan de cuidado). 
 
     .row.justify-content-center.align-items-start.mb-3           
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/64.png', alt='')
       .col-lg-9.my-3
-        p(data-aos="fade-down") Son acciones que garantizan el cuidado de la salud del individuo teniendo en cuenta la detección temprana, la educación y la protección específica en salud en una comunidad, potencializando las actividades físicas, cognitivas y psicológicas para alcanzar las metas en su desarrollo intelectual, en esta fase se detecta oportuna y tempranamente el riesgo en salud que incluye reducir el daño que emerge en el momento vital de la vida y evitar afectar el entorno, buscando que sea protector y aumentar el desarrollo para la salud.
+        p(data-aos="fade-down") Son acciones que garantizan el cuidado de la salud del individuo teniendo en cuenta la detección temprana, la educación y la protección específica en salud en una comunidad, potencializando las actividades físicas, cognitivas y psicológicas para alcanzar las metas en su desarrollo intelectual, en esta fase se #[b detecta oportuna y tempranamente el riesgo en salud que incluye reducir el daño que emerge en el momento vital de la vida y evitar afectar el entorno, buscando que sea protector y aumentar el desarrollo para la salud.]
 
         p(data-aos="fade-down") Este grupo de riesgo es definido como el conjunto de personas con condiciones comunes de exposición y vulnerabilidad a ciertas patologías que se presentan, estos factores de riesgo derivan desenlaces clínicos y las estrategias eficaces de la entrega de los servicios en la atención.
         .row.justify-content-center.align-items-center         
@@ -582,6 +582,10 @@
           .col.my-3
             p(data-aos="fade-down").mb-0 #[b.t1 La clasificación de los grupos de riesgo brinda, con claridad, las herramientas a los tomadores de decisión locales,] cumpliendo con principios de eficiencia y coherencia entre los distintos programas de salud pública. Para los grupos de riesgo conformados se define un proceso de atención integral que incluye las acciones intersectoriales y sectoriales de gestión de la salud pública, e intervenciones individuales y colectivas, asumiendo que los #[b.t1 grupos de riesgo conservan características iguales,] establecida como proceso de atención integral que permite su gestión integral.                  
 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-6
+        .bgy.p-4.text-center(data-aos="flip-down")  
+          p(data-aos="fade-down").mb-0 Existen 16 grupos de riesgo definidos por el #[b MSPS- Ministerio  de Salud y Protección Social, a saber:]    
     .row.justify-content-center.align-items-start.mb-3.text-center           
       .col-lg-2.col-md-4.my-3
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/66.svg', alt='')
@@ -641,11 +645,11 @@
 
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido.mb-3(data-aos="zoom-in-left")
-      h2 2.3 Ruta de PMS 
+      h2 2.3 R - Ruta de PMS
 
     .row.justify-content-center.align-items-center.mb-3    
       .col-lg-8.my-3
-        p(data-aos="fade-down") Se entiende la Ruta de PMS- Ruta de Promoción y Mantenimiento de la Salud, la cual fue regulada por la Resolución 3202 de 2016, como el conjunto de acciones coordinadas, complementarias y efectivas para garantizar el derecho a la salud, expresadas en políticas, planes, programas, proyectos, estrategias y servicios, que se materializan en atenciones dirigidas a las personas, las familias y las comunidades para la promoción de la salud, la prevención de la enfermedad, el diagnóstico, el tratamiento, la rehabilitación y los cuidados paliativos en los diferentes estadios de la vida según las RIA, para esto se deben tener en cuenta cada una de las etapas etarias atendidas, sus características y las condiciones propias de cada ser humano.
+        p(data-aos="fade-down") Se entiende la #[b Ruta de PMS- Ruta de Promoción y Mantenimiento de la Salud], la cual fue regulada por la Resolución 3202 de 2016, como el conjunto de acciones coordinadas, complementarias y efectivas para garantizar el derecho a la salud, expresadas en políticas, planes, programas, proyectos, estrategias y servicios, que se materializan en atenciones dirigidas a las personas, las familias y las comunidades para la promoción de la salud, la prevención de la enfermedad, el diagnóstico, el tratamiento, la rehabilitación y los cuidados paliativos en los diferentes estadios de la vida según las #[b RIA], para esto se deben tener en cuenta cada una de las etapas etarias atendidas, sus características y las condiciones propias de cada ser humano.
       .col-lg-4.my-3 
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/81.svg', alt='')
     h4(data-aos="fade-down").mb-5 Por tanto, se invita a revisar el siguiente video que habla al respecto:
@@ -658,14 +662,14 @@
         figcaption Video. Etapas de la vida digna
     Separador 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.4 Vigilancia: reporte a condiciones objeto de vigilancia      
+      h2 2.4 V - Vigilancia: reporte a condiciones objeto de vigilancia    
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/82.svg')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 El objeto del Decreto 3518 es crear y reglamentar el Sistema de Vigilancia en Salud Pública, SIVIGILA, para la provisión en forma sistemática y oportuna de información sobre la dinámica de los eventos que afecten o puedan afectar la salud de la población, con el fin de orientar las políticas y la planificación en salud pública. 
+        p.mb-0 El objeto del Decreto 3518 es crear y reglamentar el #[b Sistema de Vigilancia en Salud Pública, SIVIGILA], para la provisión en forma sistemática y oportuna de información sobre la dinámica de los eventos que afecten o puedan afectar la salud de la población, con el fin de orientar las políticas y la planificación en salud pública. 
         
     p(data-aos="fade-down") Tomar las decisiones para la prevención y el control de las enfermedades y los factores de riesgo en salud; optimizar el seguimiento y la evaluación de las intervenciones; racionalizar y optimizar los recursos disponibles y lograr la efectividad de las acciones en esta materia, propendiendo por la protección de la salud individual y colectiva.
 
@@ -683,13 +687,13 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Es muy importante que conozca cómo se reglamenta en el Sistema de Vigilancia en Salud Pública-SIVIGILA, algunos elementos importantes sobre el tema, por lo que se invita a revisar el contenido.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Vigilancia.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
 
     Separador 
     #t_2_5.titulo-segundo.color-acento-contenido.mb-3(data-aos="zoom-in-left")
-      h2 2.5 Información en salud                        
+      h2 2.5 I - Información en salud                
 
     .row.justify-content-center.align-items-center.mb-3    
       .col-lg-8.my-3
@@ -703,11 +707,11 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/5IaYCP_IoRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
-        figcaption Video. Plan de cuidado en la atención integral
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/XE4sjWzrRK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        figcaption Video. Tipos de resultados
     Separador 
     #t_2_6.titulo-segundo.color-acento-contenido.mb-3(data-aos="zoom-in-left")
-      h2 2.6 Remisión a intervenciones colectivas  
+      h2 2.6 R - Remisión a intervenciones colectivas
     .row.justify-content-center.align-items-center.mb-3    
       .col-lg-8.my-3
         p(data-aos="fade-down") Esta acción se encamina a los conjuntos de poblaciones que tienen situaciones de riesgo o que inciden en la salud y el bienestar de una comunidad.
@@ -732,31 +736,39 @@
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/86.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 En esta sección se describe el grupo de riesgo abordado o la condición de salud objeto de la RIAS, en términos de su carga en el sistema de salud, la #[b historia natural de la enfermedad] y los posibles #[b eventos prevenibles] con la intervención de la condición de salud. Lo anterior, se presenta en una hoja con formato en Excel para el análisis de la situación de salud y con un mapa de georreferenciación. 
+              h4 Análisis de la situación de salud
+              p En esta sección se describe el grupo de riesgo abordado o la condición de salud objeto de la RIAS, en términos de su carga en el sistema de salud, la #[b historia natural de la enfermedad] y los posibles #[b eventos prevenibles] con la intervención de la condición de salud. 
+              p.mb-0 Lo anterior, se presenta en una hoja con formato en Excel para el análisis de la situación de salud y con un mapa de georreferenciación. 
 
           .row.justify-content-center.align-items-center(titulo="Soporte de laevidencia científica")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/90.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 En esta sección se relacionan las #[b acciones/intervenciones] propuestas por el equipo desarrollador de la RIAS y la #[b evidencia científica] que soporta su implementación, así mismo, contiene las #[b fuentes de información] y las estrategias de búsqueda que se utilizaron para la selección de dicha evidencia. Se registran en hojas en formato Excel.
+              h4 Soporte de laevidencia científica
+              p.mb-0 En esta sección se relacionan las #[b acciones/intervenciones] propuestas por el equipo desarrollador de la RIAS y la #[b evidencia científica] que soporta su implementación, así mismo, contiene las #[b fuentes de información] y las estrategias de búsqueda que se utilizaron para la selección de dicha evidencia. Se registran en hojas en formato Excel.
 
           .row.justify-content-center.align-items-center(titulo="Acciones / intervenciones de la RIAS")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/89.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 En este apartado se detallan las acciones de #[b gestión de la salud pública], las intervenciones poblacionales, individuales y colectivas, así como también el o los #[b entornos] en los cuales se implementará y, los #[b actores] sectoriales e intersectoriales responsables de la ejecución de las acciones / intervenciones. Se registran en hojas en formato Excel. 
+              h4 Acciones / intervenciones de la RIAS
+              p.mb-0 En este apartado se detallan las acciones de #[b gestión de la salud pública], las intervenciones poblacionales, individuales y colectivas, así como también el o los #[b entornos] en los cuales se implementará y, los #[b actores] sectoriales e intersectoriales responsables de la ejecución de las acciones / intervenciones. Se registran en hojas en formato Excel. 
 
           .row.justify-content-center.align-items-center(titulo="Hitos")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/88.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 En este apartado se identificarán los #[b hitos y desenlaces] esperados seleccionados por el grupo desarrollador de la RIAS. De igual forma, se describen y caracterizan los #[b indicadores] que podrán ser de #[b estructura, proceso y resultado], que se hayan contemplado para la medición de los hitos y de los resultados en salud esperados para el grupo poblacional abordado por la RIAS. Asimismo, se registrará la #[b fuente de información] que permitirá realizar la medición de los indicadores, así como los #[b responsables de su implementación y reporte]. Se registran en hojas en formato Excel. 
+              h4 Hitos
+              p En este apartado se identificarán los #[b hitos y desenlaces] esperados seleccionados por el grupo desarrollador de la RIAS. 
+              p De igual forma, se describen y caracterizan los #[b indicadores] que podrán ser de #[b estructura, proceso y resultado], que se hayan contemplado para la medición de los hitos y de los resultados en salud esperados para el grupo poblacional abordado por la RIAS. 
+              p.mb-0 Asimismo, se registrará la #[b fuente de información] que permitirá realizar la medición de los indicadores, así como los #[b responsables de su implementación y reporte]. Se registran en hojas en formato Excel. 
 
           .row.justify-content-center.align-items-center(titulo="Barreras y facilitadores para la implementación")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/87.svg', alt='')
             .col-lg-8.my-3
-              p(data-aos="fade-down").mb-0 En este apartado se describirá, para cada una de las #[b acciones / intervenciones] propuestas en la RIAS, los posibles factores #[b facilitadores y las barreras] para la implementación, desde el punto de vista #[b operativo, financiero y de gestión en salud]. Se registran en hojas en formato Excel.   
+              h4 Barreras y facilitadores para la implementación
+              p.mb-0 En este apartado se describirá, para cada una de las #[b acciones / intervenciones] propuestas en la RIAS, los posibles factores #[b facilitadores y las barreras] para la implementación, desde el punto de vista #[b operativo, financiero y de gestión en salud]. Se registran en hojas en formato Excel.   
 
       p(data-aos="fade-down").mb-5 Por otro lado, se encuentran los diagramas de acción de la intervención que se deben tener en cuenta según el paso 8 del Manual Metodológico RIAS del Ministerio de Salud y Protección Social:
 
@@ -782,7 +794,7 @@
             .row.justify-content-center
               .col-lg-6.my-3
                 h4 Diagrama de las acciones de gestión de la salud pública: 
-                p Se propone graficar estas acciones/intervenciones de la gestión de la salud pública, teniendo en cuenta el entorno como escenario de entrega, la herramienta propuesta se muestra en el desarrollo realizado en el numeral 3.8.1, en el Paso 8 Construcción gráfica de la RIAS.           
+                p Se propone graficar estas acciones/intervenciones de la gestión de la salud pública, teniendo en cuenta el #[b entorno como escenario de entrega], la herramienta propuesta se muestra en el desarrollo realizado en el numeral 3.8.1, en el Paso 8 Construcción gráfica de la RIAS.           
               .col-lg-4.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/93.png', alt='')
         .py-4.py-md-5(titulo="Diagrama de intervenciones individuales y colectivas")
@@ -790,11 +802,11 @@
             .row.justify-content-center
               .col-lg-6.my-3
                 h4 Diagrama de intervenciones individuales y colectivas: 
-                p Diagrama de intervenciones individuales y colectivas:           
+                p Es usada para representar gráficamente el componente de las intervenciones individuales y colectivas, es un #[b modelador de procesos], se recomienda #[b Bizagi]. Se relaciona la valoración integral del estado de salud, la detección temprana de alteraciones, la protección específica, el diagnóstico, el tratamiento, la paliación y la educación para la salud, los hitos, los servicios y las responsabilidades de los integrantes del SGSSS: la herramienta propuesta se muestra en el Paso 8 Manual metodológico RIAS.          
               .col-lg-4.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/94.png', alt='')
 
-      p(data-aos="fade-down").mb-5 Se relaciona la valoración integral del estado de salud, la detección temprana de alteraciones, la protección específica, el diagnóstico, el tratamiento, la paliación y la educación para la salud, los hitos, los servicios y las responsabilidades de los integrantes del SGSSS- Sistema General de Seguridad Social en Salud: la herramienta propuesta se muestra en el paso 8 del Manual metodológico RIAS.
+      p(data-aos="fade-down").mb-5 Se relaciona la valoración integral del estado de salud, la detección temprana de alteraciones, la protección específica, el diagnóstico, el tratamiento, la paliación y la educación para la salud, los hitos, los servicios y las responsabilidades de los integrantes del #[b SGSSS- Sistema General de Seguridad Social en Salud]: la herramienta propuesta se muestra en el paso 8 del Manual metodológico RIAS.
 
       .row.justify-content-center.align-items-center          
         .col-lg-10(data-aos="zoom-in")
@@ -813,7 +825,7 @@
 
     Separador 
     #t_2_7.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.7 Educación para la salud  
+      h2 2.7 E - Educación para la salud
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -856,7 +868,7 @@
                   h5 Colectivas:
                   p.mb-4 Constituye  un grupo de personas que comparten el mismo momento de curso de vida o el mismo riesgo o un grupo de familias que comparten una condición o situación.
                   img.img-t.fr(src='@/assets/curso/temas/96.svg' alt='') 
-
+    p(data-aos="fade-down").mb-5 Con relación a la implementación de las sesiones, las orientaciones son:
     .bg30.py-5
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10    
@@ -923,7 +935,7 @@
                       ul.lista-ul.mb-0.fa-ul                    
                         li 
                           i.lista-ul__vineta.c4
-                          p.mb-0 Gestionar de forma anticipatoria la salud (actuando desde lo educativo para construir o fortalecer las capacidades que pueden servir como protectoras de la salud en futuros momentos del curso de vida - dados los efectos acumulativos de la misma-).
+                          p.mb-0 Gestionar de forma anticipatoria la salud (actuando desde lo educativo para construir o fortalecer las capacidades que pueden servir como protectoras de la salud en futuros momentos del curso de vida - dados los efectos acumulativos de la misma).
 
                         li 
                           i.lista-ul__vineta.c4
@@ -951,7 +963,7 @@
               ul.lista-ul.mb-0.fa-ul                    
                 li 
                   i.lista-ul__vineta.c4
-                  p.mb-0 Comprender y apropiar ciertas prácticas de cuidado de su salud, para evitar mayores riesgos,
+                  p.mb-0 Comprender y apropiar ciertas prácticas de cuidado de su salud, para evitar mayores riesgos.
                 li 
                   i.lista-ul__vineta.c4
                   p.mb-0 Cuando la condición o situación del afiliado requiere de privacidad en el manejo de la información.
@@ -992,7 +1004,7 @@
                 p.mb-0 Estudios de casos reales.
               li 
                 i.lista-ul__vineta.c4
-                p.mb-0 Cursos E-learning.
+                p.mb-0 Cursos #[i E-learning].
               li 
                 i.lista-ul__vineta.c4
                 p.mb-0 Grupos de encuentro.
@@ -1043,7 +1055,7 @@
                 p.mb-0 Análisis de casos problematizadores.
               li 
                 i.lista-ul__vineta.c4
-                p.mb-0 Actividad cooperativa (aprender-haciendo y discutiendo) 
+                p.mb-0 Actividad cooperativa (aprender-haciendo y discutiendo). 
 
         .col-lg-10.mt-5
           .row.justify-content-start.mb-4          
@@ -1081,7 +1093,7 @@
                 p.mb-0 Proyectos participativos.
               li 
                 i.lista-ul__vineta.c4
-                p.mb-0 Procesos de IA- IAP (Investigación Acción Participativa).
+                p.mb-0 Procesos de #[b IA- IAP (Investigación Acción Participativa)].
               li 
                 i.lista-ul__vineta.c4
                 p.mb-0 Encuentros comunitarios.
@@ -1108,13 +1120,13 @@
                 p.mb-0 Demostraciones.
               li 
                 i.lista-ul__vineta.c4
-                p.mb-0 SARAR Metodología de educación en salud, que busca el cambio en los hábitos de higiene de los miembros de las comunidades, para disminuir la incidencia de las enfermedades.
+                p.mb-0 #[b SARAR] Metodología de educación en salud, que busca el cambio en los hábitos de higiene de los miembros de las comunidades, para disminuir la incidencia de las enfermedades.
               li 
                 i.lista-ul__vineta.c4
                 p.mb-0 Modelaje de situaciones.
               li 
                 i.lista-ul__vineta.c4
-                p.mb-0 Construcción participativa de guiones teatrales, happenings, escritura de cuentos, composición de piezas musicales, videos, álbumes.
+                p.mb-0 Construcción participativa de guiones teatrales, #[i happenings], escritura de cuentos, composición de piezas musicales, videos, álbumes.
               li 
                 i.lista-ul__vineta.c4
                 p.mb-0 Teatro foro. 
@@ -1141,7 +1153,7 @@
 
               li 
                 i.lista-ul__vineta.c4
-                p.mb-0 Adicionalmente, se pueden implementar en las acciones definidas en las EGI- Estrategias de Gestión Integrada de enfermedades transmisibles, manual educativo de entornos saludables (vivienda, escolar) u otras estrategias o programas de PyP-Prevención y Promoción en Salud, definidos por el MSPS- Ministerio de Salud y Protección Social.
+                p.mb-0 Adicionalmente, se pueden implementar en las acciones definidas en las #[b EGI- Estrategias de Gestión Integrada] de enfermedades transmisibles, manual educativo de entornos saludables (vivienda, escolar) u otras estrategias o programas de #[b PyP-Prevención y Promoción en Salud], definidos por el #[b MSPS- Ministerio de Salud y Protección Social].
 
               li 
                 i.lista-ul__vineta.c4
@@ -1173,12 +1185,12 @@
             .col-auto.bg3.p-2(data-aos="flip-down")
               h4(data-aos="fade-down").mb-0 ¿Con quién(es)?
 
-          p(data-aos="fade-down") Otro factor a tener en cuenta al momento de diseñar una sesión es pensar en el sujeto de la atención (individuo o familia del afiliado). Eventualmente si se trata de un menor de edad o una persona con discapacidad o una persona mayor de 60 años, que requiere ir acompañado por un familiar, cuidador o acompañante durante la(s) sesión(es) de EPS individual. Las cuales pueden ser:
+          p(data-aos="fade-down") Otro factor a tener en cuenta al momento de diseñar una sesión es pensar en el sujeto de la atención (individuo o familia del afiliado). #[b Eventualmente si se trata de un menor de edad o una persona con discapacidad o una persona mayor de 60 años], que requiere ir acompañado por un familiar, cuidador o acompañante durante la(s) sesión(es) de EPS individual. Las cuales pueden ser:
 
           .bg-t.ps-5.p-3.mb-4
             h5(data-aos="fade-down").mb-0 Grupales
           .px-3
-            p(data-aos="fade-down") Sujetos (afiliados) que comparten una condición/situación de salud (para quienes se programan las sesiones) grupos de familias según los hallazgos y la priorización de la EAPB, un ejemplo típico es cuando se presenta violencia intrafamiliar, por lo que se citan inicialmente a los miembros de manera individual, pero también se hacen procesos grupales para conocer las dinámicas familiares.
+            p(data-aos="fade-down") Sujetos (afiliados) que comparten una #[b condición/situación de salud] (para quienes se programan las sesiones) grupos de familias según los hallazgos y la priorización de la EAPB, un ejemplo típico es cuando se presenta violencia intrafamiliar, por lo que se citan inicialmente a los miembros de manera individual, pero también se hacen procesos grupales para conocer las dinámicas familiares.
 
           .bg-t.ps-5.p-3.my-4
             h5(data-aos="fade-down").mb-0 Colectivas
@@ -1215,7 +1227,6 @@
         .col-lg-5.my-3
           LineaTiempoD.color-primario
             div(numero="1" titulo="Individuales") 
-              p Cuando el profesional responsable de un determinado servicio de salud considere que la persona o miembros de una misma familia requieren:
               ul.lista-ul.mb-0.fa-ul                    
                 li 
                   i.lista-ul__vineta.c5
@@ -1224,7 +1235,6 @@
                   i.lista-ul__vineta.c5
                   p.mb-0 Hogar del afiliado.  
             div(numero="2" titulo="Grupales") 
-              p Cuando el profesional responsable de un determinado servicio de salud considere que la persona o miembros de una misma familia requieren:
               ul.lista-ul.mb-0.fa-ul                    
                 li 
                   i.lista-ul__vineta.c6
@@ -1237,9 +1247,8 @@
                   p.mb-0 Hogares de los afiliados.
                 li 
                   i.lista-ul__vineta.c6
-                  p.mb-0 Sitios de trabajo (para el caso de la ARL-Administradora de Riesgos Laborales).        
+                  p.mb-0 Sitios de trabajo (para el caso de la #[b ARL-Administradora de Riesgos Laborales)].        
             div(numero="3" titulo="Colectivas") 
-              p Cuando el profesional responsable de un determinado servicio de salud considere que la persona o miembros de una misma familia requieren:
               ul.lista-ul.mb-0.fa-ul                    
                 li 
                   i.lista-ul__vineta.c4
@@ -1269,17 +1278,17 @@
         .col-lg-5.my-3
           LineaTiempoD.color-primario
             div(numero="1" titulo="Individuales") 
-              p De acuerdo con el plan de acompañamiento establecido con/para la persona. Entre 20 a 30 minutos (deben considerar el establecimiento de formas de seguimiento y el posible acompañamiento virtual, telefónico o por medio de plataformas de telemedicina). 
+              p De acuerdo con el plan de acompañamiento establecido con/para la persona. Entre #[b 20 a 30 minutos] (deben considerar el establecimiento de #[b formas de seguimiento y el posible acompañamiento virtual, telefónico o por medio de plataformas de telemedicina)]. 
             div(numero="2" titulo="Grupales") 
-              p 2 ciclos por momento de curso de vida (cada ciclo tendrá mínimo 3 sesiones y máximo 6) –desarrollados entre uno y tres meses. En total, una persona debería asistir a mínimo 12 ciclos educativos en el curso de su vida.
+              p #[b 2 ciclos por momento de curso de vida] (cada ciclo tendrá mínimo #[b 3 sesiones y máximo 6]) –desarrollados #[b entre uno y tres meses]. En total, una persona debería asistir a mínimo #[b 12 ciclos educativos en el curso de su vida].
 
-              p En la familia se realizará como mínimo un ciclo. La EAPB tendrá una oferta permanente de ciclos educativos para garantizar la cobertura a todos sus afiliados por momento de curso de vida. Cada sesión grupal tendrá entre 90 y 120 minutos.        
+              p En #[b la familia se realizará como mínimo un ciclo]. La EAPB tendrá una oferta permanente de ciclos educativos para garantizar la cobertura a todos sus afiliados por momento de curso de vida. #[b Cada sesión grupal tendrá entre 90 y 120 minutos].        
             div(numero="3" titulo="Colectivas") 
-              p Mínimo 2 ciclos al año por grupo poblacional o colectivo, con las que se va a desarrollar el proceso. En zona rural y rural dispersa, se realizará mínimo un ciclo al año por grupo poblacional o colectivo priorizado. 
+              p #[b Mínimo 2 ciclos al año] por grupo #[b poblacional o colectivo], con las que #[b se va a desarrollar el proceso]. En zona rural y rural dispersa, se realizará mínimo #[b un ciclo al año] por grupo poblacional #[b o colectivo priorizado]. 
 
-              p Cada ciclo está compuesto por 9 a 12 sesiones con el mismo grupo para el logro de un resultado concreto –acorde con el PTS-Plan Territorial de Salud, previamente definido y acordado con los participantes. Cada sesión tendrá una duración de 2 a 3 horas. Mantenimiento por momento de curso de vida. La cobertura mínima debe ser el 50 % del total de los afiliados por momento de curso de vida.
+              p Cada ciclo está compuesto #[b por 9 a 12 sesiones] con el mismo grupo para el logro de un resultado concreto –acorde con el #[b PTS-Plan Territorial de Salud], previamente definido y acordado con los participantes. Cada sesión tendrá una #[b duración de 2 a 3 horas]. Mantenimiento por momento de curso de vida. La cobertura mínima debe #[b ser el 50 % del total de los afiliados por momento de curso de vida].
 
-              p Colectivas de acuerdo con las metas del Plan Territorial de Salud (complementario a las acciones de la EPS con cargo a la UPC-Unidad de Pago de Capitación).
+              p Colectivas de acuerdo con las metas del #[b Plan Territorial de Salud] (complementario a las acciones de la EPS con cargo a la #[b UPC-Unidad de Pago de Capitación)].
 
         .col-lg-10.mt-5
           .row.justify-content-start.mb-4          
@@ -1297,22 +1306,10 @@
                 p Es necesario realizar una actividad inicial que permita establecer el estado de los saberes (conocimientos, prácticas, ritos, imaginarios, mitos, valores, actitudes y motivaciones). Preferiblemente, para ello se aplicará una rúbrica, analizada de forma conjunta entre el grupo y los participantes, estos datos son organizados, sistematizados y analizados, permiten conocer la población y redefinir la estrategia si se requiere. 
             .row.justify-content-center(titulo="Individuales grupales")
               .col-12
-                p Cumplimiento de compromisos de acuerdo con una rúbrica o una lista de cotejo preestablecida y acordada con el sujeto. Se puede establecer un seguimiento telefónico o virtual, en caso de que a la persona se le dificulte desplazarse hasta la IPS    
+                p Cumplimiento de compromisos de acuerdo con una #[b rúbrica o una lista de cotejo] preestablecida y acordada con el #[b sujeto]. Se puede establecer un #[b seguimiento telefónico o virtual], en caso de que a la persona se le dificulte desplazarse hasta la IPS.    
             .row.justify-content-center(titulo="Colectivas ")
               .col-12
-                p Proyectos para mejorar la salud/calidad de vida de las comunidades, son diseñados e implementados con la participación de la comunidad, por lo que con ellos se busca definir previamente los criterios de resultado, gestión e impacto. Algunos ejemplos que se pueden mencionar para la salud ambiental son: planilla de intervención familiar, planilla por actividad económica y planes de acción intersectorial de entornos, es decir, hay que tener en cuenta la intervención en el entorno educativo, el hogar, la parte laboral y el sector comunitario.  
-      //-   .col-lg-6                     
-      //-     h4.my-4(data-aos="fade-down").text-center Para realizar estas evaluaciones por sesiones se deben tener en cuenta los siguientes elementos por categorías: 
-
-      //- .row.justify-content-center.align-items-end.mb-4
-      //-   .col-lg-6.my-3.order-1
-      //-     LineaTiempoD.color-primario
-      //-       div(numero="1" titulo="Individuales") 
-      //-         p Cumplimiento de compromisos de acuerdo con una rúbrica o una lista de cotejo preestablecida y acordada con el sujeto. Se puede establecer un seguimiento telefónico o virtual, en caso de que a la persona se le dificulte desplazarse hasta la IPS.    
-      //-       div(numero="1" titulo="Colectivas") 
-      //-         p Proyectos para mejorar la salud/calidad de vida de las comunidades, son diseñados e implementados con la participación de la comunidad, por lo que con ellos se busca definir previamente los criterios de resultado, gestión e impacto. Algunos ejemplos que se pueden mencionar para la salud ambiental son: planilla de intervención familiar, planilla por actividad económica y planes de acción intersectorial de entornos, es decir, hay que tener en cuenta la intervención en el entorno educativo, el hogar, la parte laboral y el sector comunitario.                      
-      //-   .col-lg-2.my-3.order-lg-2
-      //-     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/106.png', alt='')
+                p Proyectos para mejorar la salud/calidad de vida de las comunidades, son diseñados e implementados con la #[b participación de la comunidad], por lo que con ellos se busca definir previamente los criterios de resultado, gestión e impacto. Algunos ejemplos que se pueden mencionar para la salud ambiental son: planilla de intervención familiar, planilla por actividad económica y planes de acción intersectorial de entornos, es decir, hay que tener en cuenta la intervención en el entorno educativo, el hogar, la parte laboral y el sector comunitario.  
       .row.justify-content-center
         .col-lg-10
           .bgt1.p-4.mb-5
@@ -1359,15 +1356,15 @@
         .col-lg-10
           .row.justify-content-start       
             .col-lg-6.my-3 
-              p(data-aos="fade-down") Seguimiento a la cohorte por momento vital, evidenciable a partir de los RIPS-Registro Individual de Prestación de Servicios en Salud, con reportes que den cuenta del grado de transformación en los saberes, actitudes, valores y prácticas y, su incidencia en la salud (por cada ciclo educativo realizado por momento de curso de vida).
+              p(data-aos="fade-down") Seguimiento a la #[b cohorte por momento vital], evidenciable a partir de los #[b RIPS-Registro Individual de Prestación de Servicios en Salud], con reportes que den cuenta del grado de transformación en los saberes, actitudes, valores y prácticas y, su incidencia en la salud (por cada ciclo educativo realizado por momento de curso de vida).
 
-              p(data-aos="fade-down") Los prestadores elaborarán un documento anual que dé cuenta de los resultados en salud impactados mediante el proceso de EPS, tanto individual como grupal, de acuerdo con los registros obtenidos a partir de la aplicación de diversos instrumentos (como los pre y postest). 
+              p(data-aos="fade-down") #[b Los prestadores elaborarán un documento anual] que dé cuenta de los resultados en salud impactados mediante el proceso de #[b EPS], tanto individual como grupal, de acuerdo con los registros obtenidos a partir de la aplicación de diversos instrumentos (como los pre y #[i postest]). 
 
             .col-lg-5.my-3
               .d-grid.h-100
                 .crd.bg27.p-3.px-4(data-aos="fade-down")
                   .crd__text
-                    p.mb-4 La #[b EAPB] analizará la información de toda su red de prestadores y hará los ajustes en el diseño de las propuestas pedagógicas que implementarán los prestadores.
+                    p.mb-4 La #[b EAPB analizará la información de toda su red de prestadores] y hará los #[b ajustes en el diseño de las propuestas pedagógicas que implementarán los prestadores].
                     img.img-t.fr(src='@/assets/curso/temas/108.svg' alt='')
 
         .col-lg-10
