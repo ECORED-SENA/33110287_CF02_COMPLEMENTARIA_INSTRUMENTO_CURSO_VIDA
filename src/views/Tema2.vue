@@ -307,7 +307,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')
             .col.my-3
               h4(data-aos="fade-down") Importante
-              p(data-aos="fade-down").mb-0 La identificación del riesgo se apoya en la evaluación del grado de satisfacción de la funcionalidad familiar, principalmente mediante la aplicación del instrumento #[b Apgar familiar - Instrumento de valoración]. Es recomendable que este instrumento sea utilizado conjuntamente con otros instrumentos sugeridos en este anexo para la valoración familiar.
+              p(data-aos="fade-down").mb-0 La identificación del riesgo se apoya en la evaluación del grado de satisfacción de la funcionalidad familiar, principalmente mediante la aplicación del instrumento #[b APGAR familiar - Instrumento de valoración]. Es recomendable que este instrumento sea utilizado conjuntamente con otros instrumentos sugeridos en este anexo para la valoración familiar.
 
     h4(data-aos="fade-down").text-center.mb-5 La valoración familiar se realiza:
 
@@ -347,7 +347,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta bg17")
           .row.justify-content-center(titulo="Estructura y dinámica")
             .col-12
-              p Estructura y dinámica familiar mediante la realización del Familiograma y Apgar familiar para identificar la conformación de la familia y las relaciones entre sus integrantes, a fin de identificar las situaciones que repercutan en la salud y el desarrollo, en el momento del curso vital de la familia y la vivencia de sucesos normativos y no normativos. 
+              p Estructura y dinámica familiar mediante la realización del Familiograma y APGAR familiar para identificar la conformación de la familia y las relaciones entre sus integrantes, a fin de identificar las situaciones que repercutan en la salud y el desarrollo, en el momento del curso vital de la familia y la vivencia de sucesos normativos y no normativos. 
           .row.justify-content-center(titulo="Situaciones particulares en salud")
             .col-12
               p Cada familia puede contar con integrantes que son vulnerables porque presentan cualquier tipo de discapacidad, sufren patologías crónicas, enfermedades huérfanas o terminales, que afectan directamente la estabilidad de los miembros de la familia.  
@@ -411,7 +411,7 @@
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 Situación de vulnerabilidad
-            p Familias en situaciones de #[b vulnerabilidad social] que pueden afectar la salud familiar, por ejemplo, familias con varios integrantes en condición de dependencia y un solo proveedor o expuestas a violencia intrafamiliar, al consumo de SPA, a la explotación sexual o económica, al pandillismo o familias dedicadas al reciclaje, etc. 
+            p Familias en situaciones de #[b vulnerabilidad social] que pueden afectar la salud familiar, por ejemplo, familias con varios integrantes en condición de dependencia y un solo proveedor o expuestas a violencia intrafamiliar, al consumo de SPA, a la explotación sexual o económica, al pandillismo o familias dedicadas al reciclaje, etc... 
         
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/49.png', alt='')              
@@ -738,7 +738,7 @@
             .col-lg-8.my-3
               h4 Análisis de la situación de salud
               p En esta sección se describe el grupo de riesgo abordado o la condición de salud objeto de la RIAS, en términos de su carga en el sistema de salud, la #[b historia natural de la enfermedad] y los posibles #[b eventos prevenibles] con la intervención de la condición de salud. 
-              p.mb-0 Lo anterior, se presenta en una hoja con formato en Excel para el análisis de la situación de salud y con un mapa de georreferenciación. 
+              p.mb-0 Lo anterior, se presenta en una hoja con formato en Excel para el análisis de la situación de salud y con un #[b mapa de georreferenciación].
 
           .row.justify-content-center.align-items-center(titulo="Soporte de laevidencia científica")     
             .col-lg-auto.my-3
@@ -802,7 +802,8 @@
             .row.justify-content-center
               .col-lg-6.my-3
                 h4 Diagrama de intervenciones individuales y colectivas: 
-                p Es usada para representar gráficamente el componente de las intervenciones individuales y colectivas, es un #[b modelador de procesos], se recomienda #[b Bizagi]. Se relaciona la valoración integral del estado de salud, la detección temprana de alteraciones, la protección específica, el diagnóstico, el tratamiento, la paliación y la educación para la salud, los hitos, los servicios y las responsabilidades de los integrantes del SGSSS: la herramienta propuesta se muestra en el Paso 8 Manual metodológico RIAS.          
+                p Es usada para representar gráficamente el componente de las intervenciones individuales y colectivas, es un #[b modelador de procesos], se recomienda #[b Bizagi].
+                p Se relaciona la valoración integral del estado de salud, la detección temprana de alteraciones, la protección específica, el diagnóstico, el tratamiento, la paliación y la educación para la salud, los hitos, los servicios y las responsabilidades de los integrantes del SGSSS: la herramienta propuesta se muestra en el Paso 8 Manual metodológico RIAS.          
               .col-lg-4.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/94.png', alt='')
 
