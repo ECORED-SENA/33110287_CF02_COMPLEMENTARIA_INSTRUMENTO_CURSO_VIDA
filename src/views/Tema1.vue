@@ -87,10 +87,9 @@
                 tr.bgt3
                   td Es variable, acumulativo y relacionado con las decisiones de las personas, por ejemplo, si se decide fumar a lo largo de la vida existirá un alto riesgo (primario) de desarrollar enfermedad o restricciones pulmonares que limitarán el capital de salud.
                   td Se inicia como una dotación ligada a los padres al nacer, pero se desarrolla a lo largo de la vida, de acuerdo con las decisiones de la persona.
-                tr
-                  td.bgw El capital de salud puede perderse transitoria o permanentemente por una enfermedad o limitarse por la discapacidad. En esos casos el sistema debe proveer los medios para facilitar la superación o adaptación al déficit permanente. <br><br>En esta situación hay un límite con los servicios sociales que en la inmensa mayoría de las sociedades están ubicados fuera del sistema de salud, ya que incluyen otros sectores como el de infraestructura, trabajo y educación, etc...                
-                  td.bgw
-                  La capacidad y oportunidad para tomar decisiones hace parte de la capacidad de autocuidado y dentro del modelo de determinantes sociales está ubicado fuera del ámbito de los servicios de salud, aunque las acciones de promoción de la salud apuntan a incrementar esa capacidad de autodeterminación en cada ser humano.  
+                tr.bgw
+                  td El capital de salud puede perderse transitoria o permanentemente por una enfermedad o limitarse por la discapacidad. En esos casos el sistema debe proveer los medios para facilitar la superación o adaptación al déficit permanente. <br><br>En esta situación hay un límite con los servicios sociales que en la inmensa mayoría de las sociedades están ubicados fuera del sistema de salud, ya que incluyen otros sectores como el de infraestructura, trabajo y educación, etc...                
+                  td La capacidad y oportunidad para tomar decisiones hace parte de la capacidad de autocuidado y dentro del modelo de determinantes sociales está ubicado fuera del ámbito de los servicios de salud, aunque las acciones de promoción de la salud apuntan a incrementar esa capacidad de autodeterminación en cada ser humano.  
 
     .row.justify-content-center.align-items-center         
       .col-lg-10.m-top
