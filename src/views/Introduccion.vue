@@ -21,8 +21,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/l_JPei3Vpiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Acciones y políticas para el envejecimiento saludable     
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/5IaYCP_IoRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Plan de cuidado en la atención integral
 
 </template>
 
