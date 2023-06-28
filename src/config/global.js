@@ -119,13 +119,13 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-file-pdf',
+        icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33110287_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
       },
       {
