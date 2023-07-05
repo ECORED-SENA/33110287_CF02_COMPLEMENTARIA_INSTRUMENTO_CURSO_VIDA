@@ -14,7 +14,7 @@
         .row.justify-content-start.mb-5           
           .col-auto.bg3.p-2(data-aos="flip-down")
             h4(data-aos="fade-down").mb-0 Salud del niño
-        p(data-aos="fade-down") Corresponde a las intervenciones que protegen a los niños y #[b.t1 promueven la máxima realización de su potencial], ya que pueden mejorar el #[b.t1 desarrollo cognitivo y emocional e impulsan el logro educativo], lo que a su vez facilita el acceso al empleo productivo, a una mayor movilidad social y a la reducción de las desigualdades en el futuro. Los niños de la región de las américas son su mayor activo, el reconocimiento, la protección de sus necesidades y los derechos humanos son esenciales para un desarrollo eficaz.            
+        p(data-aos="fade-down") Corresponde a las intervenciones que protegen a los niños y #[b.t1 promueven la máxima realización de su potencial], ya que pueden mejorar el #[b.t1 desarrollo cognitivo y emocional e impulsan el logro educativo], lo que a su vez facilita el acceso al empleo productivo, a una mayor movilidad social y a la reducción de las desigualdades en el futuro. Los niños de la Región de las Américas son su mayor activo, el reconocimiento, la protección de sus necesidades y los derechos humanos son esenciales para un desarrollo eficaz.            
                           
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.png', alt='') 
@@ -99,7 +99,7 @@
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.svg', alt='')
             .col.my-3
-              p(data-aos="fade-down").mb-0 Unas de las estrategias o componentes que ofrece la #[b OPS - Organización Panamericana de la Salud/OMS-Organización Mundial de la Salud] es promover el diseño de enfoques integrados eficaces a la salud del niño, como la #[b Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI)], orientada a la atención de niños de 0 a 5 años con el objetivo de reducir su mortalidad y morbilidad.
+              p(data-aos="fade-down").mb-0 Unas de las estrategias o componentes que ofrece la #[b OPS - Organización Panamericana de la Salud/OMS-Organización Mundial de la Salud] es promover el diseño de enfoques integrados eficaces a la salud del niño, como la #[b estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI)], orientada a la atención de niños de 0 a 5 años con el objetivo de reducir su mortalidad y morbilidad.
           .bgw.p-3.brad
             p(data-aos="fade-down").mb-0.c2 #[b AIEPI] es una estrategia que integra las mejores medidas de salud disponibles para la promoción de una vida sana, para la prevención de enfermedades (con vacuna, buena alimentación, etc.) y para la detección precoz y el tratamiento efectivo de las enfermedades más frecuentes y prevalentes.
 
@@ -633,10 +633,10 @@
         p(data-aos="fade-down").mb-0 Accidentes y enfermedades laborales
       .col-lg-2.col-md-4.my-3
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/79.svg', alt='')
-        p(data-aos="fade-down").mb-0 Enfermedades huerfanas
+        p(data-aos="fade-down").mb-0 Enfermedades huérfanas
       .col-lg-2.col-md-4.my-3
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/80.svg', alt='')
-        p(data-aos="fade-down").mb-0 Trastornos degenerativos, neuropatías y enf autoinmune. 
+        p(data-aos="fade-down").mb-0 Trastornos degenerativos, neuropatías y enfermedades autoinmune. 
 
     .row.justify-content-center.align-items-center.mb-5    
       .col-lg-10.mt-5
@@ -740,11 +740,11 @@
               p En esta sección se describe el grupo de riesgo abordado o la condición de salud objeto de la RIAS, en términos de su carga en el sistema de salud, la #[b historia natural de la enfermedad] y los posibles #[b eventos prevenibles] con la intervención de la condición de salud. 
               p.mb-0 Lo anterior, se presenta en una hoja con formato en Excel para el análisis de la situación de salud y con un #[b mapa de georreferenciación].
 
-          .row.justify-content-center.align-items-center(titulo="Soporte de laevidencia científica")     
+          .row.justify-content-center.align-items-center(titulo="Soporte de la evidencia científica")     
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/90.svg', alt='')
             .col-lg-8.my-3
-              h4 Soporte de laevidencia científica
+              h4 Soporte de la evidencia científica
               p.mb-0 En esta sección se relacionan las #[b acciones/intervenciones] propuestas por el equipo desarrollador de la RIAS y la #[b evidencia científica] que soporta su implementación, así mismo, contiene las #[b fuentes de información] y las estrategias de búsqueda que se utilizaron para la selección de dicha evidencia. Se registran en hojas en formato Excel.
 
           .row.justify-content-center.align-items-center(titulo="Acciones / intervenciones de la RIAS")     
@@ -833,7 +833,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/95.png')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 La educación en salud ha tomado mucha importancia en el Siglo XXI, debido a que la industrialización de los alimentos ha hecho que estos sean cultivados, manufacturados y entregados al cliente final con muchos elementos adicionales que le producen enfermedades a largo plazo, por lo que se las entidades multilaterales y los gobiernos han tenido que diseñar políticas fuertes, con el fin de definir los parámetros que lleven al consumidor a crear conciencia sobre lo que compran y llevan a la mesa, y a las empresas a etiquetar los productos o a pagar impuestos o multas. 
+        p.mb-0 La educación en salud ha tomado mucha importancia en el Siglo XXI, debido a que la industrialización de los alimentos ha hecho que estos sean cultivados, manufacturados y entregados al cliente final con muchos elementos adicionales que le producen enfermedades a largo plazo, por lo que las entidades multilaterales y los gobiernos han tenido que diseñar políticas fuertes, con el fin de definir los parámetros que lleven al consumidor a crear conciencia sobre lo que compran y llevan a la mesa, y a las empresas a etiquetar los productos o a pagar impuestos o multas. 
 
     p(data-aos="fade-down").mb-5 Por esta razón, la educación en salud debe cubrirse de diferentes formas y a diferentes niveles para llegar a toda la población a largo plazo, según los protocolos del Ministerio de Salud y Protección Social se debe hacer a través de sesiones de la siguiente forma:   
     .row.justify-content-center.align-items-center      
@@ -1196,7 +1196,7 @@
           .bg-t.ps-5.p-3.my-4
             h5(data-aos="fade-down").mb-0 Colectivas
           .px-3
-            p(data-aos="fade-down") Corresponden a trabajos realizados por equipos multidisciplinarios con las comunidades en diferentes áreas, algunos casos que se pueden mencionar son: visitas a instituciones educativas para dar charlas sobre el consumo de sustancias psicoactivas, el matoneo en la escuela o en las redes sociales, la violencia intrafamiliar, la prostitución infantil, el embarazo en adolescentes, el uso de armas, los derechos humanos, el origen del conflicto en Colombia, los diferentes temas en salud y el cuidado del medio ambiente, el uso del tiempo libre, entre otros temas.familiares.
+            p(data-aos="fade-down") Corresponden a trabajos realizados por equipos multidisciplinarios con las comunidades en diferentes áreas, algunos casos que se pueden mencionar son: visitas a instituciones educativas para dar charlas sobre el consumo de sustancias psicoactivas, el matoneo en la escuela o en las redes sociales, la violencia intrafamiliar, la prostitución infantil, el embarazo en adolescentes, el uso de armas, los derechos humanos, el origen del conflicto en Colombia, los diferentes temas en salud y el cuidado del medio ambiente, el uso del tiempo libre, entre otros temas familiares.
 
             ul.lista-ul.mb-0.fa-ul                    
               li 
@@ -1378,7 +1378,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/109.png')})`}"
             )
             .bloque-texto-g__texto.p-5
-              p.mb-0 Finalmente, y no menos importante es vital tener en cuenta el análisis de los recursos que se van a utilizar para el diseño de las sesiones que se van a realizar, ya que todo esto implica la contratación de personal, material didáctico, locaciones, entre otros elementos y todo ellos debe cumplir con un rubro dentro de un presupuesto y dentro de un proyecto que debe ser aprobado por una entidad del Estado.                               
+              p.mb-0 Finalmente, y no menos importante es vital tener en cuenta el análisis de los recursos que se van a utilizar para el diseño de las sesiones que se van a realizar, ya que todo esto implica la contratación de personal, material didáctico, locaciones, entre otros elementos y todo ellos deben cumplir con un rubro dentro de un presupuesto y dentro de un proyecto que debe ser aprobado por una entidad del Estado.                               
           p(data-aos="fade-down") Por esto se hace necesario tener presente que la caracterización de la población debe cumplir un objetivo muy preciso, para que realmente las personas se sientan comprometidas y puedan asistir a las actividades de curso de vida y de educación en salud de manera voluntaria como parte consciente de sus derechos y deberes en salud, por esta razón se pueden revisar los siguientes elementos:   
 
       .row.justify-content-center.align-items-start.mb-4

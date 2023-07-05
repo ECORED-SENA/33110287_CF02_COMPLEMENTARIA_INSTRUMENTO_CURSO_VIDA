@@ -27,7 +27,7 @@
 
     .row.justify-content-start.mb-5           
       .col-auto.bg3.p-2(data-aos="flip-down")
-        h4(data-aos="fade-down").mb-0 Autocuidado Aspectos a tener en cuenta
+        h4(data-aos="fade-down").mb-0 Autocuidado Aspectos a tener en cuenta:
     .bg4.pb-5
       .row.justify-content-center.align-items-center.mb-4           
         .col-lg-5.my-3
