@@ -1378,7 +1378,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/109.png')})`}"
             )
             .bloque-texto-g__texto.p-5
-              p.mb-0 Finalmente, y no menos importante es vital tener en cuenta el análisis de los recursos que se van a utilizar para el diseño de las sesiones que se van a realizar, ya que todo esto implica la contratación de personal, material didáctico, locaciones, entre otros elementos y todo ellos deben cumplir con un rubro dentro de un presupuesto y dentro de un proyecto que debe ser aprobado por una entidad del Estado.                               
+              p.mb-0 Finalmente, y no menos importante es vital tener en cuenta el análisis de los recursos que se van a utilizar para el diseño de las sesiones que se van a realizar, ya que todo esto implica la contratación de personal, material didáctico, locaciones, entre otros elementos y todos ellos deben cumplir con un rubro dentro de un presupuesto y dentro de un proyecto que debe ser aprobado por una entidad del Estado.                               
           p(data-aos="fade-down") Por esto se hace necesario tener presente que la caracterización de la población debe cumplir un objetivo muy preciso, para que realmente las personas se sientan comprometidas y puedan asistir a las actividades de curso de vida y de educación en salud de manera voluntaria como parte consciente de sus derechos y deberes en salud, por esta razón se pueden revisar los siguientes elementos:   
 
       .row.justify-content-center.align-items-start.mb-4
